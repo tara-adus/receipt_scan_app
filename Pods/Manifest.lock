@@ -1,0 +1,17 @@
+PODS:
+  - Charts (3.0.5):
+    - Charts/Core (= 3.0.5)
+  - Charts/Core (3.0.5)
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - TesseractOCRiOS (= 4.0.0)
+
+SPEC CHECKSUMS:
+  Charts: 45cdc985b764c838b35ee47eb1365d15735f6d1a
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: 0826576d3ed221284baae9385c563ab5e0bd22c6
+
+COCOAPODS: 1.4.0
